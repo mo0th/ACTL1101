@@ -1,0 +1,7 @@
+# Ignore anything that is not code
+*.docx
+*.pdf
+# Ignore files that I might not be allowed to copy
+*.csv
+# Do caode for week 7
+wk7/
